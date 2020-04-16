@@ -3,7 +3,7 @@ from hurry.filesize import size, si
 
 pp = pprint.PrettyPrinter(indent=4)
 
-extPath = "C:\\Users\\Steven\\Downloads\\ExtensionZip\\"
+extPath = "C:\\Path\\To\\ExtFolder\\"
 
 jsFiles = []
 manifestJson = {}
